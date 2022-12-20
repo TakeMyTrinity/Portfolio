@@ -1,4 +1,4 @@
-<h1 align="center" id="title">PuyDuFou</h1>
+<h1 align="center" id="title">Portfolio</h1>
 
 <p align="center"><img src="https://lilianmalinge.fr/assets/images/gitimg.png" alt="project-image"></p>
 
